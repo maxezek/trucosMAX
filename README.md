@@ -21,6 +21,12 @@ El fichero es [autothunderbird.xml](https://github.com/maxezek/trucosMAX/blob/ma
 
 ***
 
+## Script para la instalación de Blender como alumno .
+
+El fichero [installBlender.sh]https://github.com/maxezek/trucosMAX/blob/master/installBlender.sh es un script que resuelve el problema de instalación de nuevas versiones de Blender para el alumno según el mensaje del foro http://foros.educa.madrid.org/viewtopic.php?p=16547&sid=4259722199c63c2e31c04f0a2a994654#p16547 Gracias Ivan del Valle y Victor Armendariz. El fichero [Instalador_blender.zip]https://github.com/maxezek/trucosMAX/blob/master/Instalador_blender.zip contiene todo lo necesario para que se instale en MAX 9 y MAX 10.
+
+***
+
 Para todo el contenido textual la licencia es
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Except where otherwise noted, content on this site or work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
